@@ -2,7 +2,6 @@ This is a coding practice I got in job hunting. If you are doing the same interv
 
 Create Random Number List
 
-This is the solution for Create Random Number List question for Pandell. 
 It generates and prints out a list of 10,000 numbers in random order each time it is run. Each number in the list is unique and be between 1 and 10,000 (inclusive).
 
 You can double click on the RandomNumber.exe file to see the result.
